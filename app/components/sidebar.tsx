@@ -148,7 +148,7 @@ export function SideBar(props: { className?: string }) {
           韩金龙GPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-        Be your personal gay.
+        Be your personal gay!
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
